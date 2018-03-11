@@ -1,0 +1,30 @@
+body{
+	background-color:#FF0000;
+	font-family:'Satisfy', cursive;
+	font-size: 25px;
+	color:#FF8392;
+
+
+}
+.
+}
+
+.row{
+	color:black;
+}
+.img-width{
+	width:100%;
+}
+.image{
+	height:53%;
+	width:100%;
+}
+.img5{
+	height:53%;
+	width:60%;
+}
+.gradient {
+
+background: linear-gradient(#FF8392, #FF0000, #FF8392);
+	
+}
